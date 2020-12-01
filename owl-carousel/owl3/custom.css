@@ -2,7 +2,7 @@ body
 {
     font-family: tahoma;
     background: #333;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 .testimonial-arrow
 {
